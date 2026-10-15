@@ -1,4 +1,4 @@
-# ativadadewebjs
+# ativada de web js
 3. explicação do porque cada variavel foi criada com const ou let: 
 A# var nomePessoa foi criado com const pois const não muda e como pessoas so tem um nome eu coloquei const.
 B# var contaDaVez foi criada com let pois existem duas conta que da pra fazer no meu javascript mais e menos.
